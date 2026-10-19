@@ -57,9 +57,9 @@
 
 ## 📞 联系我们
 
-- **公司网站**: [www.shenzhitech.com](http://www.shenzhitech.com)
-- **企业邮箱**: [contact@shenzhitech.com](mailto:contact@shenzhitech.com)
-- **公司地址**: 江苏省泰州市xxx区xxx路xxx号
+- **公司网站**: [www.shenzhi-aicn](http://www.shenzhi-aicn)
+- **企业邮箱**: [contact@shenzhi-aicn](mailto:contact@shenzhi-aicn)
+- **公司地址**: 江苏省泰州市海陵区美好上郡32幢甲单元1203室（住用商）
 - **GitHub**: [@shenzhiarchive](https://github.com/shenzhiarchive)
 
 ---
